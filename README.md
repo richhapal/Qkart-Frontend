@@ -20,3 +20,12 @@
 </div>
 
 <br>
+<div>
+<h3>🚀 Features</h3>
+<ol>
+<li>Responsive Design To Support All Screen</li>
+<li>User Login,Registration and Logout Functionality</li>
+<li>Search Functionality To Find Product Directly</li>
+<li>Used Local Storage To Save User Name and User Tokens</li>
+</ol>
+</div>
