@@ -4,10 +4,18 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/109352268/219581303-41426827-4130-48a1-92f2-fcbf561cefae.gif" width="100%"></div>
 <br>
 
+
+
 <div align="center">
   <h2><a  href="https://qkart-richhapal.netlify.app/">Live Preview 👉</a></h2>
+  <hr>
+  <P>USERNAME:--testuser</P>
+  <P>PASSWORD:--123456</P>
+  <hr>
  </div>
-<br>
+
+
+
 
 <div >
 <h3>Technologies Used</h3>
